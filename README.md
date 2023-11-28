@@ -3,7 +3,6 @@
 This repo provides a reference implementation of DisenIDP as described in the paper:
 
 [Enhancing Information Diffusion Prediction with Self-Supervised Disentangled User and Cascade Representations](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=CU28LO0AAAAJ&citation_for_view=CU28LO0AAAAJ:IWHjjKOFINEC)  
-[Zhangtao Cheng](https://github.com/CZ-TAO12), [Wenxue Ye](https://github.com/Yewx0310), Leyuan Liu,[Wenxin Tai](https://github.com/judiebig) and Fan Zhou  
 Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 [dl.acm.org/doi/abs/10.1145/3583780.3615230](https://dl.acm.org/doi/abs/10.1145/3583780.3615230)
 
